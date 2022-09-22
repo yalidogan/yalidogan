@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! :)
+I am Yiğit Ali Doğan
+Currently a freshaman at Bilkent CS
+
 
 <!--
 **yalidogan/yalidogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
