@@ -1,6 +1,6 @@
 ### Hi there! :)
 I am Yiğit Ali Doğan
-Currently a freshaman at Bilkent CS
+Currently a Junior at Bilkent CS
 
 
 <!--
