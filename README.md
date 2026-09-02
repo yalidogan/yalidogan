@@ -1,6 +1,6 @@
 ### Hi there! :)
 I am Yiğit Ali Doğan
-Currently a Senior at Bilkent CS
+Currently a first year Master's student in TU Delft CS
 
 
 <!--
